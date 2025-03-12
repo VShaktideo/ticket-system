@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import { useParams } from 'react-router-dom';
 import UpdateTicketStatus from './UpdateTicketStatus';
 
@@ -9,7 +9,7 @@ const TicketDetails = () => {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
-  const fetchTicketDetails = async () => {
+  const fetchTicketDetails = useCallback(async () => {
     try {
       const response = await fetch(`http://localhost:8000/api/tickets/${ticketId}`);
       if (response.ok) {
@@ -21,9 +21,9 @@ const TicketDetails = () => {
     } catch (error) {
       setError('Error fetching ticket details: ' + error.message);
     }
-  };
+  }, [ticketId]);
 
-  const fetchTicketHistory = async () => {
+  const fetchTicketHistory = useCallback(async () => {
     try {
       const response = await fetch(`http://localhost:8000/api/tickets/${ticketId}/history`);
       if (response.ok) {
@@ -35,7 +35,7 @@ const TicketDetails = () => {
     } catch (error) {
       setError('Error fetching ticket history: ' + error.message);
     }
-  };
+  }, [ticketId]);
 
   useEffect(() => {
     const loadData = async () => {
@@ -45,7 +45,7 @@ const TicketDetails = () => {
     };
 
     loadData();
-  }, [ticketId]);
+  }, [fetchTicketDetails, fetchTicketHistory]);
 
   const handleStatusUpdate = async () => {
     await Promise.all([fetchTicketDetails(), fetchTicketHistory()]);

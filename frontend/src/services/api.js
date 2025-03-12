@@ -18,6 +18,9 @@ export const createTicket = async (ticketData) => {
 export const getTicketDetails = async (ticketId) => {
   try {
     const response = await fetch(`${API_URL}/api/tickets/${ticketId}`);
+    if (!response.ok) {
+      throw new Error('Failed to fetch ticket details');
+    }
     return await response.json();
   } catch (error) {
     throw new Error('Failed to fetch ticket details');
