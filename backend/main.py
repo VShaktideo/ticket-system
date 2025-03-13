@@ -273,7 +273,8 @@ async def get_all_tickets(status: Optional[str] = Query(None)):
             cursor.execute("""
                 SELECT 
                     ticket_id, full_name, email, message_subject,
-                    status, priority, created_at, assigned_at, assigned_to
+                    description, status, priority, created_at, 
+                    assigned_at, assigned_to
                 FROM tickets 
                 WHERE status = ?
                 ORDER BY created_at DESC
@@ -282,7 +283,8 @@ async def get_all_tickets(status: Optional[str] = Query(None)):
             cursor.execute("""
                 SELECT 
                     ticket_id, full_name, email, message_subject,
-                    status, priority, created_at, assigned_at, assigned_to
+                    description, status, priority, created_at, 
+                    assigned_at, assigned_to
                 FROM tickets
                 ORDER BY created_at DESC
             """)

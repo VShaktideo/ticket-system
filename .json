@@ -1,0 +1,1018 @@
+{
+    "totalCount": 17,
+    "items": [
+        {
+            "id": "33774739-5eed-4b5d-c4ab-d78fc14ebb9e",
+            "offerId": "CFQ7TTC0LCHC:0002:CFQ7TTC0X9W7",
+            "offerName": "Microsoft 365 Business Premium",
+            "friendlyName": "Microsoft 365 Business Premium",
+            "productType": {
+                "id": "OnlineServicesNCE",
+                "displayName": "OnlineServicesNCE"
+            },
+            "quantity": 25,
+            "unitType": "Licenses",
+            "hasPurchasableAddons": false,
+            "creationDate": "2024-08-20T13:13:52.4950403Z",
+            "effectiveStartDate": "2024-08-20T00:00:00Z",
+            "commitmentEndDate": "2025-08-19T00:00:00Z",
+            "commitmentEndDateTime": "2025-08-19T23:59:59Z",
+            "cancellationAllowedUntilDate": "2024-08-27T13:14:22.0896326Z",
+            "billingCycleEndDate": "2025-03-19T00:00:00Z",
+            "billingCycleEndDateTime": "2025-03-19T23:59:59Z",
+            "status": "active",
+            "autoRenewEnabled": false,
+            "isTrial": false,
+            "billingType": "license",
+            "billingCycle": "monthly",
+            "termDuration": "P1Y",
+            "renewalTermDuration": "",
+            "isMicrosoftProduct": true,
+            "partnerId": "",
+            "attentionNeeded": false,
+            "actionTaken": false,
+            "contractType": "subscription",
+            "links": {
+                "product": {
+                    "uri": "/products/CFQ7TTC0LCHC?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "sku": {
+                    "uri": "/products/CFQ7TTC0LCHC/skus/0002?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "availability": {
+                    "uri": "/products/CFQ7TTC0LCHC/skus/0002/availabilities/CFQ7TTC0X9W7?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "self": {
+                    "uri": "/customers/f247e3d9-3f2d-4300-9b31-e04b25972419/subscriptions/33774739-5eed-4b5d-c4ab-d78fc14ebb9e",
+                    "method": "GET",
+                    "headers": []
+                }
+            },
+            "publisherName": "Microsoft Corporation",
+            "orderId": "3b66b0598cb9",
+            "attributes": {
+                "objectType": "Subscription"
+            }
+        },
+        {
+            "id": "560abca9-24b2-46a3-d252-8ef0b3a20b35",
+            "offerId": "CFQ7TTC0LCHC:0002:CFQ7TTC0X9W7",
+            "offerName": "Microsoft 365 Business Premium",
+            "friendlyName": "Microsoft 365 Business Premium",
+            "productType": {
+                "id": "OnlineServicesNCE",
+                "displayName": "OnlineServicesNCE"
+            },
+            "quantity": 0,
+            "unitType": "Licenses",
+            "hasPurchasableAddons": false,
+            "creationDate": "2024-08-20T12:33:42.3803423Z",
+            "effectiveStartDate": "2024-08-20T00:00:00Z",
+            "commitmentEndDate": "2025-08-19T00:00:00Z",
+            "commitmentEndDateTime": "2025-08-19T23:59:59Z",
+            "cancellationAllowedUntilDate": "2024-08-27T12:34:17.7214911Z",
+            "billingCycleEndDate": "2024-09-19T00:00:00Z",
+            "billingCycleEndDateTime": "2024-09-19T23:59:59Z",
+            "status": "deleted",
+            "autoRenewEnabled": true,
+            "isTrial": false,
+            "billingType": "license",
+            "billingCycle": "monthly",
+            "termDuration": "P1Y",
+            "renewalTermDuration": "",
+            "isMicrosoftProduct": true,
+            "partnerId": "",
+            "attentionNeeded": false,
+            "actionTaken": false,
+            "contractType": "subscription",
+            "links": {
+                "product": {
+                    "uri": "/products/CFQ7TTC0LCHC?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "sku": {
+                    "uri": "/products/CFQ7TTC0LCHC/skus/0002?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "availability": {
+                    "uri": "/products/CFQ7TTC0LCHC/skus/0002/availabilities/CFQ7TTC0X9W7?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "self": {
+                    "uri": "/customers/f247e3d9-3f2d-4300-9b31-e04b25972419/subscriptions/560abca9-24b2-46a3-d252-8ef0b3a20b35",
+                    "method": "GET",
+                    "headers": []
+                }
+            },
+            "publisherName": "Microsoft Corporation",
+            "orderId": "8659067b77b6",
+            "attributes": {
+                "objectType": "Subscription"
+            }
+        },
+        {
+            "id": "a016ef25-2f69-440c-d600-ba1da2519ae0",
+            "offerId": "CFQ7TTC0LCHC:0002:CFQ7TTC0X9W7",
+            "offerName": "Microsoft 365 Business Premium",
+            "friendlyName": "Microsoft 365 Business Premium",
+            "productType": {
+                "id": "OnlineServicesNCE",
+                "displayName": "OnlineServicesNCE"
+            },
+            "quantity": 0,
+            "unitType": "Licenses",
+            "hasPurchasableAddons": false,
+            "creationDate": "2024-08-20T12:01:14.759931Z",
+            "effectiveStartDate": "2024-08-20T00:00:00Z",
+            "commitmentEndDate": "2025-08-19T00:00:00Z",
+            "commitmentEndDateTime": "2025-08-19T23:59:59Z",
+            "cancellationAllowedUntilDate": "2024-08-27T12:01:49.3659618Z",
+            "billingCycleEndDate": "2024-09-19T00:00:00Z",
+            "billingCycleEndDateTime": "2024-09-19T23:59:59Z",
+            "status": "deleted",
+            "autoRenewEnabled": true,
+            "isTrial": false,
+            "billingType": "license",
+            "billingCycle": "monthly",
+            "termDuration": "P1Y",
+            "renewalTermDuration": "",
+            "isMicrosoftProduct": true,
+            "partnerId": "",
+            "attentionNeeded": false,
+            "actionTaken": false,
+            "contractType": "subscription",
+            "links": {
+                "product": {
+                    "uri": "/products/CFQ7TTC0LCHC?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "sku": {
+                    "uri": "/products/CFQ7TTC0LCHC/skus/0002?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "availability": {
+                    "uri": "/products/CFQ7TTC0LCHC/skus/0002/availabilities/CFQ7TTC0X9W7?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "self": {
+                    "uri": "/customers/f247e3d9-3f2d-4300-9b31-e04b25972419/subscriptions/a016ef25-2f69-440c-d600-ba1da2519ae0",
+                    "method": "GET",
+                    "headers": []
+                }
+            },
+            "publisherName": "Microsoft Corporation",
+            "orderId": "964e71511b48",
+            "attributes": {
+                "objectType": "Subscription"
+            }
+        },
+        {
+            "id": "6d1ce743-8e11-48ad-de5c-4e90c97865b0",
+            "offerId": "CFQ7TTC0LCHC:0002:CFQ7TTC0X9W7",
+            "offerName": "Microsoft 365 Business Premium",
+            "friendlyName": "Microsoft 365 Business Premium",
+            "productType": {
+                "id": "OnlineServicesNCE",
+                "displayName": "OnlineServicesNCE"
+            },
+            "quantity": 0,
+            "unitType": "Licenses",
+            "hasPurchasableAddons": false,
+            "creationDate": "2024-08-20T12:00:00.5163555Z",
+            "effectiveStartDate": "2024-08-20T00:00:00Z",
+            "commitmentEndDate": "2025-08-19T00:00:00Z",
+            "commitmentEndDateTime": "2025-08-19T23:59:59Z",
+            "cancellationAllowedUntilDate": "2024-08-27T12:00:32.4791461Z",
+            "billingCycleEndDate": "2024-09-19T00:00:00Z",
+            "billingCycleEndDateTime": "2024-09-19T23:59:59Z",
+            "status": "deleted",
+            "autoRenewEnabled": true,
+            "isTrial": false,
+            "billingType": "license",
+            "billingCycle": "monthly",
+            "termDuration": "P1Y",
+            "renewalTermDuration": "",
+            "isMicrosoftProduct": true,
+            "partnerId": "",
+            "attentionNeeded": false,
+            "actionTaken": false,
+            "contractType": "subscription",
+            "links": {
+                "product": {
+                    "uri": "/products/CFQ7TTC0LCHC?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "sku": {
+                    "uri": "/products/CFQ7TTC0LCHC/skus/0002?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "availability": {
+                    "uri": "/products/CFQ7TTC0LCHC/skus/0002/availabilities/CFQ7TTC0X9W7?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "self": {
+                    "uri": "/customers/f247e3d9-3f2d-4300-9b31-e04b25972419/subscriptions/6d1ce743-8e11-48ad-de5c-4e90c97865b0",
+                    "method": "GET",
+                    "headers": []
+                }
+            },
+            "publisherName": "Microsoft Corporation",
+            "orderId": "0ba6a7ef840e",
+            "attributes": {
+                "objectType": "Subscription"
+            }
+        },
+        {
+            "id": "ad7a359a-d9df-4212-da7a-d16a44177d3e",
+            "offerId": "CFQ7TTC0LCHC:0002:CFQ7TTC0X9W7",
+            "offerName": "Microsoft 365 Business Premium",
+            "friendlyName": "Microsoft 365 Business Premium",
+            "productType": {
+                "id": "OnlineServicesNCE",
+                "displayName": "OnlineServicesNCE"
+            },
+            "quantity": 0,
+            "unitType": "Licenses",
+            "hasPurchasableAddons": false,
+            "creationDate": "2024-08-20T10:17:53.4518862Z",
+            "effectiveStartDate": "2024-08-20T00:00:00Z",
+            "commitmentEndDate": "2025-08-19T00:00:00Z",
+            "commitmentEndDateTime": "2025-08-19T23:59:59Z",
+            "cancellationAllowedUntilDate": "2024-08-27T10:18:16.3348446Z",
+            "billingCycleEndDate": "2024-09-19T00:00:00Z",
+            "billingCycleEndDateTime": "2024-09-19T23:59:59Z",
+            "status": "deleted",
+            "autoRenewEnabled": true,
+            "isTrial": false,
+            "billingType": "license",
+            "billingCycle": "monthly",
+            "termDuration": "P1Y",
+            "renewalTermDuration": "",
+            "isMicrosoftProduct": true,
+            "partnerId": "",
+            "attentionNeeded": false,
+            "actionTaken": false,
+            "contractType": "subscription",
+            "links": {
+                "product": {
+                    "uri": "/products/CFQ7TTC0LCHC?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "sku": {
+                    "uri": "/products/CFQ7TTC0LCHC/skus/0002?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "availability": {
+                    "uri": "/products/CFQ7TTC0LCHC/skus/0002/availabilities/CFQ7TTC0X9W7?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "self": {
+                    "uri": "/customers/f247e3d9-3f2d-4300-9b31-e04b25972419/subscriptions/ad7a359a-d9df-4212-da7a-d16a44177d3e",
+                    "method": "GET",
+                    "headers": []
+                }
+            },
+            "publisherName": "Microsoft Corporation",
+            "orderId": "88b3076f03d6",
+            "attributes": {
+                "objectType": "Subscription"
+            }
+        },
+        {
+            "id": "0a37e6df-65ac-4c49-d73c-22019fd4576f",
+            "offerId": "CFQ7TTC0LCHC:0002:CFQ7TTC0X9W7",
+            "offerName": "Microsoft 365 Business Premium",
+            "friendlyName": "Microsoft 365 Business Premium",
+            "productType": {
+                "id": "OnlineServicesNCE",
+                "displayName": "OnlineServicesNCE"
+            },
+            "quantity": 1,
+            "unitType": "Licenses",
+            "hasPurchasableAddons": false,
+            "creationDate": "2024-08-20T10:14:36.5323418Z",
+            "effectiveStartDate": "2024-08-20T00:00:00Z",
+            "commitmentEndDate": "2025-08-19T00:00:00Z",
+            "commitmentEndDateTime": "2025-08-19T23:59:59Z",
+            "cancellationAllowedUntilDate": "2024-08-27T10:15:00.8385644Z",
+            "billingCycleEndDate": "2025-03-19T00:00:00Z",
+            "billingCycleEndDateTime": "2025-03-19T23:59:59Z",
+            "status": "active",
+            "autoRenewEnabled": true,
+            "isTrial": false,
+            "billingType": "license",
+            "billingCycle": "monthly",
+            "termDuration": "P1Y",
+            "renewalTermDuration": "",
+            "isMicrosoftProduct": true,
+            "partnerId": "",
+            "attentionNeeded": false,
+            "actionTaken": false,
+            "contractType": "subscription",
+            "links": {
+                "product": {
+                    "uri": "/products/CFQ7TTC0LCHC?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "sku": {
+                    "uri": "/products/CFQ7TTC0LCHC/skus/0002?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "availability": {
+                    "uri": "/products/CFQ7TTC0LCHC/skus/0002/availabilities/CFQ7TTC0X9W7?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "self": {
+                    "uri": "/customers/f247e3d9-3f2d-4300-9b31-e04b25972419/subscriptions/0a37e6df-65ac-4c49-d73c-22019fd4576f",
+                    "method": "GET",
+                    "headers": []
+                }
+            },
+            "publisherName": "Microsoft Corporation",
+            "orderId": "6bc60720ee0d",
+            "attributes": {
+                "objectType": "Subscription"
+            }
+        },
+        {
+            "id": "3761d5c8-50a2-439e-d37a-262471f84f2c",
+            "offerId": "CFQ7TTC0HKJ7:0001:CFQ7TTC0S7D4",
+            "offerName": "Dynamics 365 Customer Voice",
+            "friendlyName": "Dynamics 365 Customer Voice",
+            "productType": {
+                "id": "OnlineServicesNCE",
+                "displayName": "OnlineServicesNCE"
+            },
+            "quantity": 0,
+            "unitType": "Licenses",
+            "hasPurchasableAddons": false,
+            "creationDate": "2024-08-14T06:23:57.7176918Z",
+            "effectiveStartDate": "2024-08-14T00:00:00Z",
+            "commitmentEndDate": "2025-08-13T00:00:00Z",
+            "commitmentEndDateTime": "2025-08-13T23:59:59Z",
+            "cancellationAllowedUntilDate": "2024-08-21T06:24:43.1809211Z",
+            "billingCycleEndDate": "2025-08-13T00:00:00Z",
+            "billingCycleEndDateTime": "2025-08-13T23:59:59Z",
+            "status": "deleted",
+            "autoRenewEnabled": false,
+            "isTrial": false,
+            "billingType": "license",
+            "billingCycle": "annual",
+            "termDuration": "P1Y",
+            "renewalTermDuration": "",
+            "isMicrosoftProduct": true,
+            "partnerId": "",
+            "attentionNeeded": false,
+            "actionTaken": false,
+            "contractType": "subscription",
+            "links": {
+                "product": {
+                    "uri": "/products/CFQ7TTC0HKJ7?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "sku": {
+                    "uri": "/products/CFQ7TTC0HKJ7/skus/0001?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "availability": {
+                    "uri": "/products/CFQ7TTC0HKJ7/skus/0001/availabilities/CFQ7TTC0S7D4?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "self": {
+                    "uri": "/customers/f247e3d9-3f2d-4300-9b31-e04b25972419/subscriptions/3761d5c8-50a2-439e-d37a-262471f84f2c",
+                    "method": "GET",
+                    "headers": []
+                }
+            },
+            "publisherName": "Microsoft Corporation",
+            "orderId": "555311b45bc8",
+            "attributes": {
+                "objectType": "Subscription"
+            }
+        },
+        {
+            "id": "f23e4f29-1438-413a-d34e-40e2b1587d6c",
+            "offerId": "CFQ7TTC0LH18:0001:CFQ7TTC0NZJ9",
+            "offerName": "Microsoft 365 Business Basic",
+            "friendlyName": "Microsoft 365 Business Basic",
+            "productType": {
+                "id": "OnlineServicesNCE",
+                "displayName": "OnlineServicesNCE"
+            },
+            "quantity": 0,
+            "unitType": "Licenses",
+            "hasPurchasableAddons": false,
+            "creationDate": "2024-08-13T12:02:30.3115429Z",
+            "effectiveStartDate": "2024-08-13T00:00:00Z",
+            "commitmentEndDate": "2024-09-12T00:00:00Z",
+            "commitmentEndDateTime": "2024-09-12T23:59:59Z",
+            "cancellationAllowedUntilDate": "2024-08-20T12:02:56.0351322Z",
+            "billingCycleEndDate": "2024-09-12T00:00:00Z",
+            "billingCycleEndDateTime": "2024-09-12T23:59:59Z",
+            "status": "deleted",
+            "autoRenewEnabled": true,
+            "isTrial": false,
+            "billingType": "license",
+            "billingCycle": "monthly",
+            "termDuration": "P1M",
+            "renewalTermDuration": "",
+            "isMicrosoftProduct": true,
+            "partnerId": "",
+            "attentionNeeded": false,
+            "actionTaken": false,
+            "contractType": "subscription",
+            "links": {
+                "product": {
+                    "uri": "/products/CFQ7TTC0LH18?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "sku": {
+                    "uri": "/products/CFQ7TTC0LH18/skus/0001?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "availability": {
+                    "uri": "/products/CFQ7TTC0LH18/skus/0001/availabilities/CFQ7TTC0NZJ9?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "self": {
+                    "uri": "/customers/f247e3d9-3f2d-4300-9b31-e04b25972419/subscriptions/f23e4f29-1438-413a-d34e-40e2b1587d6c",
+                    "method": "GET",
+                    "headers": []
+                }
+            },
+            "publisherName": "Microsoft Corporation",
+            "orderId": "79178b29300a",
+            "attributes": {
+                "objectType": "Subscription"
+            }
+        },
+        {
+            "id": "7bb87376-3ca4-4868-cda9-99ff8f763f99",
+            "offerId": "CFQ7TTC0LCHC:0002:CFQ7TTC0XCJB",
+            "offerName": "Microsoft 365 Business Premium",
+            "friendlyName": "Microsoft 365 Business Premium",
+            "productType": {
+                "id": "OnlineServicesNCE",
+                "displayName": "OnlineServicesNCE"
+            },
+            "quantity": 0,
+            "unitType": "Licenses",
+            "hasPurchasableAddons": false,
+            "creationDate": "2024-08-13T10:27:38.3959451Z",
+            "effectiveStartDate": "2024-08-13T00:00:00Z",
+            "commitmentEndDate": "2024-09-12T00:00:00Z",
+            "commitmentEndDateTime": "2024-09-12T23:59:59Z",
+            "cancellationAllowedUntilDate": "2024-08-20T10:28:03.5791289Z",
+            "billingCycleEndDate": "2024-09-12T00:00:00Z",
+            "billingCycleEndDateTime": "2024-09-12T23:59:59Z",
+            "status": "deleted",
+            "autoRenewEnabled": true,
+            "isTrial": false,
+            "billingType": "license",
+            "billingCycle": "monthly",
+            "termDuration": "P1M",
+            "renewalTermDuration": "",
+            "isMicrosoftProduct": true,
+            "partnerId": "",
+            "attentionNeeded": false,
+            "actionTaken": false,
+            "contractType": "subscription",
+            "links": {
+                "product": {
+                    "uri": "/products/CFQ7TTC0LCHC?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "sku": {
+                    "uri": "/products/CFQ7TTC0LCHC/skus/0002?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "availability": {
+                    "uri": "/products/CFQ7TTC0LCHC/skus/0002/availabilities/CFQ7TTC0XCJB?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "self": {
+                    "uri": "/customers/f247e3d9-3f2d-4300-9b31-e04b25972419/subscriptions/7bb87376-3ca4-4868-cda9-99ff8f763f99",
+                    "method": "GET",
+                    "headers": []
+                }
+            },
+            "publisherName": "Microsoft Corporation",
+            "orderId": "ab181d499a63",
+            "attributes": {
+                "objectType": "Subscription"
+            }
+        },
+        {
+            "id": "bcf78a7b-50a2-4a01-dacd-b61f3009dc92",
+            "offerId": "CFQ7TTC0LH34:0001:CFQ7TTC0PX8C",
+            "offerName": "Dynamics 365 Business Central Essentials",
+            "friendlyName": "Dynamics 365 Business Central Essentials",
+            "productType": {
+                "id": "OnlineServicesNCE",
+                "displayName": "OnlineServicesNCE"
+            },
+            "quantity": 0,
+            "unitType": "Licenses",
+            "hasPurchasableAddons": false,
+            "creationDate": "2024-08-13T09:37:01.011636Z",
+            "effectiveStartDate": "2024-08-13T00:00:00Z",
+            "commitmentEndDate": "2025-08-12T00:00:00Z",
+            "commitmentEndDateTime": "2025-08-12T23:59:59Z",
+            "cancellationAllowedUntilDate": "2024-08-20T09:37:26.3391012Z",
+            "billingCycleEndDate": "2024-09-12T00:00:00Z",
+            "billingCycleEndDateTime": "2024-09-12T23:59:59Z",
+            "status": "deleted",
+            "autoRenewEnabled": true,
+            "isTrial": false,
+            "billingType": "license",
+            "billingCycle": "monthly",
+            "termDuration": "P1Y",
+            "renewalTermDuration": "",
+            "isMicrosoftProduct": true,
+            "partnerId": "",
+            "attentionNeeded": false,
+            "actionTaken": false,
+            "contractType": "subscription",
+            "links": {
+                "product": {
+                    "uri": "/products/CFQ7TTC0LH34?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "sku": {
+                    "uri": "/products/CFQ7TTC0LH34/skus/0001?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "availability": {
+                    "uri": "/products/CFQ7TTC0LH34/skus/0001/availabilities/CFQ7TTC0PX8C?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "self": {
+                    "uri": "/customers/f247e3d9-3f2d-4300-9b31-e04b25972419/subscriptions/bcf78a7b-50a2-4a01-dacd-b61f3009dc92",
+                    "method": "GET",
+                    "headers": []
+                }
+            },
+            "publisherName": "Microsoft Corporation",
+            "orderId": "6da03ab559bd",
+            "attributes": {
+                "objectType": "Subscription"
+            }
+        },
+        {
+            "id": "52992413-84eb-4c67-d12f-41143220c1d1",
+            "offerId": "CFQ7TTC0JN4R:0002:CFQ7TTC0QTG5",
+            "offerName": "Microsoft Teams Essentials",
+            "friendlyName": "Microsoft Teams Essentials",
+            "productType": {
+                "id": "OnlineServicesNCE",
+                "displayName": "OnlineServicesNCE"
+            },
+            "quantity": 23,
+            "unitType": "Licenses",
+            "hasPurchasableAddons": false,
+            "creationDate": "2024-08-13T07:58:54.4118343Z",
+            "effectiveStartDate": "2024-08-13T00:00:00Z",
+            "commitmentEndDate": "2025-03-12T00:00:00Z",
+            "commitmentEndDateTime": "2025-03-12T23:59:59Z",
+            "cancellationAllowedUntilDate": "2025-02-20T10:55:45.9387152Z",
+            "billingCycleEndDate": "2025-03-12T00:00:00Z",
+            "billingCycleEndDateTime": "2025-03-12T23:59:59Z",
+            "status": "active",
+            "autoRenewEnabled": false,
+            "isTrial": false,
+            "billingType": "license",
+            "billingCycle": "monthly",
+            "termDuration": "P1M",
+            "renewalTermDuration": "",
+            "isMicrosoftProduct": true,
+            "partnerId": "",
+            "attentionNeeded": false,
+            "actionTaken": false,
+            "contractType": "subscription",
+            "links": {
+                "product": {
+                    "uri": "/products/CFQ7TTC0JN4R?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "sku": {
+                    "uri": "/products/CFQ7TTC0JN4R/skus/0002?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "availability": {
+                    "uri": "/products/CFQ7TTC0JN4R/skus/0002/availabilities/CFQ7TTC0QTG5?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "self": {
+                    "uri": "/customers/f247e3d9-3f2d-4300-9b31-e04b25972419/subscriptions/52992413-84eb-4c67-d12f-41143220c1d1",
+                    "method": "GET",
+                    "headers": []
+                }
+            },
+            "publisherName": "Microsoft Corporation",
+            "orderId": "a28b80bcd049",
+            "attributes": {
+                "objectType": "Subscription"
+            }
+        },
+        {
+            "id": "40863198-1564-4f76-d486-1a6b467c6928",
+            "offerId": "CFQ7TTC0JN4R:0002:CFQ7TTC0QXF7",
+            "offerName": "Microsoft Teams Essentials",
+            "friendlyName": "Microsoft Teams Essentials",
+            "productType": {
+                "id": "OnlineServicesNCE",
+                "displayName": "OnlineServicesNCE"
+            },
+            "quantity": 14,
+            "unitType": "Licenses",
+            "hasPurchasableAddons": false,
+            "creationDate": "2024-08-13T07:11:06.5746067Z",
+            "effectiveStartDate": "2024-08-13T00:00:00Z",
+            "commitmentEndDate": "2025-08-12T00:00:00Z",
+            "commitmentEndDateTime": "2025-08-12T23:59:59Z",
+            "cancellationAllowedUntilDate": "2024-08-20T07:11:29.774678Z",
+            "billingCycleEndDate": "2025-03-12T00:00:00Z",
+            "billingCycleEndDateTime": "2025-03-12T23:59:59Z",
+            "status": "active",
+            "autoRenewEnabled": false,
+            "isTrial": false,
+            "billingType": "license",
+            "billingCycle": "monthly",
+            "termDuration": "P1Y",
+            "renewalTermDuration": "",
+            "isMicrosoftProduct": true,
+            "partnerId": "",
+            "attentionNeeded": false,
+            "actionTaken": false,
+            "contractType": "subscription",
+            "links": {
+                "product": {
+                    "uri": "/products/CFQ7TTC0JN4R?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "sku": {
+                    "uri": "/products/CFQ7TTC0JN4R/skus/0002?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "availability": {
+                    "uri": "/products/CFQ7TTC0JN4R/skus/0002/availabilities/CFQ7TTC0QXF7?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "self": {
+                    "uri": "/customers/f247e3d9-3f2d-4300-9b31-e04b25972419/subscriptions/40863198-1564-4f76-d486-1a6b467c6928",
+                    "method": "GET",
+                    "headers": []
+                }
+            },
+            "publisherName": "Microsoft Corporation",
+            "orderId": "890f6524a787",
+            "attributes": {
+                "objectType": "Subscription"
+            }
+        },
+        {
+            "id": "55683ffd-25bb-4ebc-c792-1d2593aa3a64",
+            "offerId": "CFQ7TTC0JN4R:0002:CFQ7TTC0QXF7",
+            "offerName": "Microsoft Teams Essentials",
+            "friendlyName": "Microsoft Teams Essentials",
+            "productType": {
+                "id": "OnlineServicesNCE",
+                "displayName": "OnlineServicesNCE"
+            },
+            "quantity": 0,
+            "unitType": "Licenses",
+            "hasPurchasableAddons": false,
+            "creationDate": "2024-08-12T12:44:01.6354965Z",
+            "effectiveStartDate": "2024-08-12T00:00:00Z",
+            "commitmentEndDate": "2024-09-11T00:00:00Z",
+            "commitmentEndDateTime": "2024-09-11T23:59:59Z",
+            "cancellationAllowedUntilDate": "2024-08-19T12:44:26.1885174Z",
+            "billingCycleEndDate": "2024-09-11T00:00:00Z",
+            "billingCycleEndDateTime": "2024-09-11T23:59:59Z",
+            "status": "deleted",
+            "autoRenewEnabled": true,
+            "isTrial": false,
+            "billingType": "license",
+            "billingCycle": "monthly",
+            "termDuration": "P1M",
+            "renewalTermDuration": "",
+            "isMicrosoftProduct": true,
+            "partnerId": "",
+            "attentionNeeded": false,
+            "actionTaken": false,
+            "contractType": "subscription",
+            "links": {
+                "product": {
+                    "uri": "/products/CFQ7TTC0JN4R?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "sku": {
+                    "uri": "/products/CFQ7TTC0JN4R/skus/0002?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "availability": {
+                    "uri": "/products/CFQ7TTC0JN4R/skus/0002/availabilities/CFQ7TTC0QXF7?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "self": {
+                    "uri": "/customers/f247e3d9-3f2d-4300-9b31-e04b25972419/subscriptions/55683ffd-25bb-4ebc-c792-1d2593aa3a64",
+                    "method": "GET",
+                    "headers": []
+                }
+            },
+            "publisherName": "Microsoft Corporation",
+            "orderId": "9453cd5fd0ba",
+            "attributes": {
+                "objectType": "Subscription"
+            }
+        },
+        {
+            "id": "dbc16b90-e661-4df4-c149-db4765c42aff",
+            "offerId": "CFQ7TTC0JN4R:0002:CFQ7TTC0QXF7",
+            "offerName": "Microsoft Teams Essentials",
+            "friendlyName": "Microsoft Teams Essentials",
+            "productType": {
+                "id": "OnlineServicesNCE",
+                "displayName": "OnlineServicesNCE"
+            },
+            "quantity": 0,
+            "unitType": "Licenses",
+            "hasPurchasableAddons": false,
+            "creationDate": "2024-08-12T12:31:47.997011Z",
+            "effectiveStartDate": "2024-08-12T00:00:00Z",
+            "commitmentEndDate": "2025-08-11T00:00:00Z",
+            "commitmentEndDateTime": "2025-08-11T23:59:59Z",
+            "cancellationAllowedUntilDate": "2024-08-19T12:32:10.461009Z",
+            "billingCycleEndDate": "2024-09-11T00:00:00Z",
+            "billingCycleEndDateTime": "2024-09-11T23:59:59Z",
+            "status": "deleted",
+            "autoRenewEnabled": true,
+            "isTrial": false,
+            "billingType": "license",
+            "billingCycle": "monthly",
+            "termDuration": "P1Y",
+            "renewalTermDuration": "",
+            "isMicrosoftProduct": true,
+            "partnerId": "",
+            "attentionNeeded": false,
+            "actionTaken": false,
+            "contractType": "subscription",
+            "links": {
+                "product": {
+                    "uri": "/products/CFQ7TTC0JN4R?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "sku": {
+                    "uri": "/products/CFQ7TTC0JN4R/skus/0002?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "availability": {
+                    "uri": "/products/CFQ7TTC0JN4R/skus/0002/availabilities/CFQ7TTC0QXF7?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "self": {
+                    "uri": "/customers/f247e3d9-3f2d-4300-9b31-e04b25972419/subscriptions/dbc16b90-e661-4df4-c149-db4765c42aff",
+                    "method": "GET",
+                    "headers": []
+                }
+            },
+            "publisherName": "Microsoft Corporation",
+            "orderId": "6db80b6239c6",
+            "attributes": {
+                "objectType": "Subscription"
+            }
+        },
+        {
+            "id": "d5270f8f-007d-4d72-cdfb-430805690c1b",
+            "offerId": "CFQ7TTC0LHXR:0001:CFQ7TTC0JZDC",
+            "offerName": "Dynamics 365  Operations – Order Lines",
+            "friendlyName": "Dynamics 365  Operations – Order Lines",
+            "productType": {
+                "id": "OnlineServicesNCE",
+                "displayName": "OnlineServicesNCE"
+            },
+            "quantity": 0,
+            "unitType": "Licenses",
+            "hasPurchasableAddons": false,
+            "creationDate": "2024-08-08T11:38:20.227432Z",
+            "effectiveStartDate": "2024-08-08T00:00:00Z",
+            "commitmentEndDate": "2025-07-31T00:00:00Z",
+            "commitmentEndDateTime": "2025-07-31T23:59:59Z",
+            "cancellationAllowedUntilDate": "2024-08-15T11:38:43.0851727Z",
+            "billingCycleEndDate": "2024-08-31T00:00:00Z",
+            "billingCycleEndDateTime": "2024-08-31T23:59:59Z",
+            "status": "deleted",
+            "autoRenewEnabled": true,
+            "isTrial": false,
+            "billingType": "license",
+            "billingCycle": "monthly",
+            "termDuration": "P1Y",
+            "renewalTermDuration": "",
+            "isMicrosoftProduct": true,
+            "partnerId": "",
+            "attentionNeeded": false,
+            "actionTaken": false,
+            "contractType": "subscription",
+            "links": {
+                "product": {
+                    "uri": "/products/CFQ7TTC0LHXR?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "sku": {
+                    "uri": "/products/CFQ7TTC0LHXR/skus/0001?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "availability": {
+                    "uri": "/products/CFQ7TTC0LHXR/skus/0001/availabilities/CFQ7TTC0JZDC?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "self": {
+                    "uri": "/customers/f247e3d9-3f2d-4300-9b31-e04b25972419/subscriptions/d5270f8f-007d-4d72-cdfb-430805690c1b",
+                    "method": "GET",
+                    "headers": []
+                }
+            },
+            "publisherName": "Microsoft Corporation",
+            "orderId": "f89dfe95fd61",
+            "attributes": {
+                "objectType": "Subscription"
+            }
+        },
+        {
+            "id": "71aa187e-b859-448d-d18a-26f67f7ba3cb",
+            "offerId": "CFQ7TTC0LHRL:0002:CFQ7TTC0QN21",
+            "offerName": "Dataverse Database Capacity add-on",
+            "friendlyName": "Dataverse Database Capacity add-on",
+            "productType": {
+                "id": "OnlineServicesNCE",
+                "displayName": "OnlineServicesNCE"
+            },
+            "quantity": 0,
+            "unitType": "Licenses",
+            "hasPurchasableAddons": false,
+            "creationDate": "2024-08-08T11:38:03.85848Z",
+            "effectiveStartDate": "2024-08-08T00:00:00Z",
+            "commitmentEndDate": "2025-07-31T00:00:00Z",
+            "commitmentEndDateTime": "2025-07-31T23:59:59Z",
+            "cancellationAllowedUntilDate": "2024-08-15T11:38:32.142135Z",
+            "billingCycleEndDate": "2025-07-31T00:00:00Z",
+            "billingCycleEndDateTime": "2025-07-31T23:59:59Z",
+            "status": "deleted",
+            "autoRenewEnabled": true,
+            "isTrial": false,
+            "billingType": "license",
+            "billingCycle": "annual",
+            "termDuration": "P1Y",
+            "renewalTermDuration": "",
+            "isMicrosoftProduct": true,
+            "partnerId": "",
+            "attentionNeeded": false,
+            "actionTaken": false,
+            "contractType": "subscription",
+            "links": {
+                "product": {
+                    "uri": "/products/CFQ7TTC0LHRL?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "sku": {
+                    "uri": "/products/CFQ7TTC0LHRL/skus/0002?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "availability": {
+                    "uri": "/products/CFQ7TTC0LHRL/skus/0002/availabilities/CFQ7TTC0QN21?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "self": {
+                    "uri": "/customers/f247e3d9-3f2d-4300-9b31-e04b25972419/subscriptions/71aa187e-b859-448d-d18a-26f67f7ba3cb",
+                    "method": "GET",
+                    "headers": []
+                }
+            },
+            "publisherName": "Microsoft Corporation",
+            "orderId": "a383bf617f10",
+            "attributes": {
+                "objectType": "Subscription"
+            }
+        },
+        {
+            "id": "c62a7f2f-eec5-4cfe-d304-66b20ee171de",
+            "offerId": "CFQ7TTC0LH18:0001:CFQ7TTC0P6FT",
+            "offerName": "Microsoft 365 Business Basic",
+            "friendlyName": "Microsoft 365 Business Basic",
+            "productType": {
+                "id": "OnlineServicesNCE",
+                "displayName": "OnlineServicesNCE"
+            },
+            "quantity": 7,
+            "unitType": "Licenses",
+            "hasPurchasableAddons": false,
+            "creationDate": "2024-08-08T11:37:58.856405Z",
+            "effectiveStartDate": "2024-08-08T00:00:00Z",
+            "commitmentEndDate": "2025-08-07T00:00:00Z",
+            "commitmentEndDateTime": "2025-08-07T23:59:59Z",
+            "cancellationAllowedUntilDate": "2024-08-15T11:38:24.502096Z",
+            "billingCycleEndDate": "2025-08-07T00:00:00Z",
+            "billingCycleEndDateTime": "2025-08-07T23:59:59Z",
+            "status": "active",
+            "autoRenewEnabled": false,
+            "isTrial": false,
+            "billingType": "license",
+            "billingCycle": "annual",
+            "termDuration": "P1Y",
+            "renewalTermDuration": "",
+            "isMicrosoftProduct": true,
+            "partnerId": "",
+            "attentionNeeded": false,
+            "actionTaken": false,
+            "contractType": "subscription",
+            "links": {
+                "product": {
+                    "uri": "/products/CFQ7TTC0LH18?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "sku": {
+                    "uri": "/products/CFQ7TTC0LH18/skus/0001?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "availability": {
+                    "uri": "/products/CFQ7TTC0LH18/skus/0001/availabilities/CFQ7TTC0P6FT?country=IN",
+                    "method": "GET",
+                    "headers": []
+                },
+                "self": {
+                    "uri": "/customers/f247e3d9-3f2d-4300-9b31-e04b25972419/subscriptions/c62a7f2f-eec5-4cfe-d304-66b20ee171de",
+                    "method": "GET",
+                    "headers": []
+                }
+            },
+            "publisherName": "Microsoft Corporation",
+            "orderId": "a383bf617f10",
+            "attributes": {
+                "objectType": "Subscription"
+            }
+        }
+    ],
+    "links": {
+        "self": {
+            "uri": "/customers/f247e3d9-3f2d-4300-9b31-e04b25972419/subscriptions",
+            "method": "GET",
+            "headers": []
+        }
+    },
+    "attributes": {
+        "objectType": "Collection"
+    }
+}
